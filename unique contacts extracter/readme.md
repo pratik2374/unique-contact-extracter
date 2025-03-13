@@ -1,7 +1,7 @@
 # Contact Extractor
 
 This project provides a Python script to extract and save unique contacts from multiple VCF (vCard) files. The extracted contacts are saved in both `.vcf` and `.txt` formats.
-Also this project provides a Python script 
+Also this project provides a Python script where you can search contacts from generated unique comtacts with a beautiful UI
 
 
 ## Features
